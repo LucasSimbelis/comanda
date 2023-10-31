@@ -18,5 +18,19 @@
         "preco": 50,
         "id": 3
         }
+    ],
+    "usuarios": [
+        {
+            "id": 1,
+            "nome": "Lucas Simbelis",
+            "email": "lucas@gmail.com",
+            "senha": "1234"
+        },
+        {
+            "id": 2,
+            "nome": "Teixeira",
+            "email": "teixeira@gmail.com",
+            "senha": "1234"
+        }
     ]
 }
