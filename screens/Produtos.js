@@ -34,19 +34,7 @@ export default function Produtos() {
             </View>
 
             <View style={styles.pedidos}>
-                <Text style={styles.subtitle}>Pedido</Text>
-                <View style={styles.pedidoData}>
-                    <Text>Saldo da comanda</Text>
-                    <Text>R$ 0,00</Text>
-                </View>
-                <View style={styles.pedidoData}>
-                    <Text>Total do pedido</Text>
-                    <Text>R$ +20,00</Text>
-                </View>
-                <View style={styles.pedidoDataTotal}>
-                    <Text>Saldo final</Text>
-                    <Text>R$ 149,00</Text>
-                </View>
+
             </View>
 
             <TextInput style={styles.input} placeholder="procurar" />
